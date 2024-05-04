@@ -79,11 +79,8 @@ public class VirtualRealityCamera
 }
 
 /*
-
 The mathematical formula for the point of view (POV) matrix, also known as the view matrix, can be derived as follows:
-
 Let f, r, and u represent the forward, right, and up vectors, respectively, in the camera's local coordinate system.
-
 The forward vector f is calculated as the normalized vector pointing from the camera's position (C) towards its target (T):
 
 f=normalize(T−C)
