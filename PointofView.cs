@@ -111,6 +111,4 @@ Where:
 - ux, uy, uz = components of the up vector
 - fx, fy, fz = components of the forward vector
 - dot(a, b) = dot product of vectors a and b
-
-
 */
